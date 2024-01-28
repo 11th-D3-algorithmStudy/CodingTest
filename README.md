@@ -79,7 +79,6 @@
     </td>
     <td align="center">1월 5주차</td>
     <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/01_7_4week">목록보기</a></td>
-    <td align="center">01</td>
     </tr>
 </table>
 
