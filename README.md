@@ -71,10 +71,8 @@ git checkout 브랜치이름
 폴더를 만들고 java 파일을 넣은 후
 git add .
 git commit -m "커밋메시지"
-git checkout master
-git pull origin master
-git checkout 브랜치이름
-git push origin 브랜치이름
+git checkout main
+git pull origin main
 ```
 
 
