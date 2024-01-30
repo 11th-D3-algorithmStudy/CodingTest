@@ -71,10 +71,8 @@ git checkout 브랜치이름
 폴더를 만들고 java 파일을 넣은 후
 git add .
 git commit -m "커밋메시지"
-git checkout master
-git pull origin master
-git checkout 브랜치이름
-git push origin 브랜치이름
+git checkout main
+git pull origin main
 ```
 
 
@@ -92,7 +90,7 @@ git push origin 브랜치이름
       <a href="https://www.acmicpc.net/problem/2573"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier" width=20px></a>
     </td>
     <td align="center">1월 5주차</td>
-    <td align="center"><a href="https://github.com/SSAFY-8-Algorithms-Study/Study-notice/tree/main/questions/01_7_4week">목록보기</a></td>
+    <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week01">목록보기</a></td>
     </tr>
 </table>
 
