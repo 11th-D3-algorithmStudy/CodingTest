@@ -13,10 +13,10 @@
 
 ## 👋 Rules 
 ### 스터디 시간 
-> Every TUE 9:00 PM or THU 9:00 PM
+> Every WED 8:00 PM
 
 ### 제출 마감 시간 (SUBMIT DUE)
-> Every TUE 9:00 PM
+> Every TUE 11:59 PM
 
 ### 스터디 방식
 
@@ -28,11 +28,12 @@
 - Week 별로 알맞은 문제 디렉터리 안에 파일명 규칙에 맞게 파일을 업로드합니다.
 <br>
 
-- 파일명 규칙: [사이트_번호_이름] <사이트명: 백준(BOJ), SW Expert Academy(SWEA)>
+- 파일명 규칙: [사이트_번호_이름] <사이트명: 백준(BOJ), SW Expert Academy(SWEA), 프로그래머스(pro)>
 
 
     ```
     BOJ_1234_김싸피
+    pro_바탕화면_정리_이싸피
     ```
 
 ### Commit Message 규칙
@@ -83,13 +84,13 @@ git pull origin main
   <tr>
     <td align="center">01</td>
     <td align="center">
-      <a href="https://www.acmicpc.net/problem/1100"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" class="solvedac-tier" width=20px></a>
-      <a href="https://www.acmicpc.net/problem/1059"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" class="solvedac-tier" width=20px></a>
-      <a href="https://www.acmicpc.net/problem/1051"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier" width=20px></a>
-      <a href="https://www.acmicpc.net/problem/2468"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg" class="solvedac-tier" width=20px></a>
-      <a href="https://www.acmicpc.net/problem/2573"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/1296"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2160"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/10163"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/5.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/27522"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://school.programmers.co.kr/learn/courses/30/lessons/161990"><img src="https://cdn4.iconfinder.com/data/icons/flat-design-security-set-one/24/security-level-1-512.png"  width=25px></a>
     </td>
-    <td align="center">1월 5주차</td>
+    <td align="center">2월 1주차</td>
     <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week01">목록보기</a></td>
     </tr>
 </table>
