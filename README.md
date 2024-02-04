@@ -28,12 +28,14 @@
 - Week 별로 알맞은 문제 디렉터리 안에 파일명 규칙에 맞게 파일을 업로드합니다.
 <br>
 
-- 파일명 규칙: [사이트_번호_이름] <사이트명: 백준(BOJ), SW Expert Academy(SWEA), 프로그래머스(pro)>
+- 파일명 규칙: [사이트_번호_이름] <사이트명: 백준(BOJ), SW Expert Academy(SWEA), 프로그래머스(PRO)>
 
 
     ```
     BOJ_1234_김싸피
-    pro_바탕화면_정리_이싸피
+    ```
+    ```
+    PRO_바탕화면_정리_이싸피
     ```
 
 ### Commit Message 규칙
@@ -64,6 +66,7 @@
       ```
       [DELETE] .gitignore
       ```
+  - readme 파일 변경 시 commit message 규칙 x
 
 ### git commit 순서
 ```
