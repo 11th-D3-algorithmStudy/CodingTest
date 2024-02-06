@@ -73,7 +73,7 @@ public class BOJ_2160_이규빈 {
 		
 		// 결과 출력
 		System.out.println(picNum1 + " " + picNum2);
-		
+		  
 	}
 
 }
