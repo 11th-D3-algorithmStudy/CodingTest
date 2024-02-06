@@ -96,3 +96,5 @@ public class BOJ_1296_성민기 {
 		System.out.println(hubo[maxIdx]);	
 	}
 }
+
+
