@@ -1,12 +1,12 @@
 # 대전 3반 알고리즘 스터디 ✏️
 ## 👥 Members
+- 김민호
 - 성민기
 - 이규빈
 - 이서영
 - 이윤주
 - 장현영
 - 정다운
-- 정승찬
 - 조아름
 
 
@@ -20,7 +20,7 @@
 
 ### 스터디 방식
 
-- 수업 시간에 다룬 개념 위주의 알고리즘 문제 풀이
+- 강의 실습에 대한 복습 및 IM & A등급 대비 알고리즘 문제 풀이
 
 <br>
 
@@ -94,6 +94,19 @@ git pull origin main
       <a href="https://school.programmers.co.kr/learn/courses/30/lessons/161990"><img src="https://cdn4.iconfinder.com/data/icons/flat-design-security-set-one/24/security-level-1-512.png"  width=25px></a>
     </td>
     <td align="center">2월 1주차</td>
+    <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week01">목록보기</a></td>
+    </tr>
+      <tr>
+    <td align="center">02</td>
+    <td align="center">
+      <a href="https://www.jungol.co.kr/problem/1037"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/8958"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/11399"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/12789"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/24511"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/17070"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">2월 2주차</td>
     <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week01">목록보기</a></td>
     </tr>
 </table>
