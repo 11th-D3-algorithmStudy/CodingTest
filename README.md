@@ -107,7 +107,7 @@ git pull origin main
       <a href="https://www.acmicpc.net/problem/17070"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg" class="solvedac-tier" width=20px></a>
     </td>
     <td align="center">2월 2주차</td>
-    <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week01">목록보기</a></td>
+    <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week02">목록보기</a></td>
     </tr>
 </table>
 
