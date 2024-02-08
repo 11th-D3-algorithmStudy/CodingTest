@@ -99,7 +99,7 @@ git pull origin main
       <tr>
     <td align="center">02</td>
     <td align="center">
-      <a href="https://www.jungol.co.kr/problem/1037"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.jungol.co.kr/problem/1037"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/3.svg" class="solvedac-tier" width=20px></a>
       <a href="https://www.acmicpc.net/problem/8958"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" class="solvedac-tier" width=20px></a>
       <a href="https://www.acmicpc.net/problem/11399"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier" width=20px></a>
       <a href="https://www.acmicpc.net/problem/12789"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier" width=20px></a>
