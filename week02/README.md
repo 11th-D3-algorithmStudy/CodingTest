@@ -11,6 +11,6 @@
 |[BOJ 8958](https://www.acmicpc.net/problem/8958) OX 퀴즈|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[BOJ 11399](https://www.acmicpc.net/problem/11399) ATM|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:-:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[BOJ 12789](https://www.acmicpc.net/problem/12789) 도키도키 간식드리미|:heavy_check_mark:|:heavy_check_mark:|:mag:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-|[BOJ 24511](https://www.acmicpc.net/problem/24511) queuestack|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:-:|:mag:|:heavy_check_mark:|:mag:|
+|[BOJ 24511](https://www.acmicpc.net/problem/24511) queuestack|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:mag:|:mag:|:heavy_check_mark:|:mag:|
 |[JO 1037](https://www.jungol.co.kr/problem/1037) 오류교정|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:-:|:heavy_check_mark:|:mag:|
 |[BOJ 17070](https://www.acmicpc.net/problem/17070) 파이프 옮기기 1|:heavy_check_mark:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
