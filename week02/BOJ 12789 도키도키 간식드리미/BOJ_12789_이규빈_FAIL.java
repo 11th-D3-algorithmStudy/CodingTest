@@ -10,7 +10,7 @@ import java.util.StringTokenizer;
 
 public class BOJ_12789_이규빈_FAIL {
 	/*
-	 *  풀이시간 : 3분
+	 *  풀이시간 : 3시간
 	 *  메인 접근법 : 먼저 Queue의 학생들을 스택 또는 간식줄로 내보내 큐를 비워낸 다음, Stack이 비워지는지 여부를 판단하기
 	 */
 	public static void main(String[] args) throws NumberFormatException, IOException {
