@@ -109,5 +109,18 @@ git pull origin main
     <td align="center">2월 2주차</td>
     <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week02">목록보기</a></td>
     </tr>
+    <tr>
+    <td align="center">03</td>
+    <td align="center">
+      <a href="https://www.acmicpc.net/problem/2798"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/4.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2941"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/2567"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/1406"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/11725"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg" class="solvedac-tier" width=20px></a>
+      <a href="https://www.acmicpc.net/problem/17281"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg" class="solvedac-tier" width=20px></a>
+    </td>
+    <td align="center">2월 3주차</td>
+    <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week02">목록보기</a></td>
+    </tr>
 </table>
 
