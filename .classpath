@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="week01/BOJ 10163"/>
+	<classpathentry kind="src" path="week01/BOJ 1296"/>
+	<classpathentry kind="src" path="week01/BOJ 2160"/>
+	<classpathentry kind="src" path="week01/BOJ 27522"/>
+	<classpathentry kind="src" path="week01/pro 바탕화면 정리"/>
+	<classpathentry kind="src" path="week02/BOJ 11399 ATM"/>
+	<classpathentry kind="src" path="week02/BOJ 12789 도키도키 간식드리미"/>
+	<classpathentry kind="src" path="week02/BOJ 24511 queuestack"/>
+	<classpathentry kind="src" path="week02/BOJ 8958 OX 퀴즈"/>
+	<classpathentry kind="src" path="week02/JO 1037 오류교정"/>
+	<classpathentry kind="src" path="week02/추가) BOJ 17070 파이프 옮기기 1"/>
+	<classpathentry kind="src" path="week03/BOJ 11725 트리의 부모 찾기"/>
+	<classpathentry kind="src" path="week03/BOJ 2798 블랙잭"/>
+	<classpathentry kind="src" path="week03/BOJ 2941 크로아티아 알파벳"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
