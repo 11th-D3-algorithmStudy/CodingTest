@@ -11,5 +11,5 @@
 |[BOJ 2941](https://www.acmicpc.net/problem/2941) 크로아티아 알파벳|:-:|:-:|:-:|:heavy_check_mark:|:-:|:-:|:-:|:-:|
 |[BOJ 2567](https://www.acmicpc.net/problem/2567) 색종이-2|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[BOJ 1406](https://www.acmicpc.net/problem/1406) 에디터|:-:|:-:|:-:|:heavy_check_mark:|:-:|:-:|:-:|:-:|
-|[BOJ 11725](https://www.acmicpc.net/problem/11725) 트리의 부모 찾기|:-:|:-:|:-:|:heavy_check_mark:|:-:|:-:|:-:|:-:|
+|[BOJ 11725](https://www.acmicpc.net/problem/11725) 트리의 부모 찾기|:-:|:-:|:-:|:heavy_check_mark:|:mag:|:-:|:-:|:-:|
 |[BOJ 17281](https://www.acmicpc.net/problem/17281) ⚾|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
