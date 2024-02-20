@@ -32,9 +32,8 @@ class DoublyLinkedList {
     }
 
     void moveLeft() {
-        if (cursor == head) {
+        if (cursor == head.next) {
             return;
-            // cursor = head;
         } else {
             cursor = cursor.prev;
         }
@@ -43,14 +42,13 @@ class DoublyLinkedList {
     void moveRight() {
         if (cursor == tail) {
             return;
-            // cursor = tail;
         } else {
             cursor = cursor.next;
         }
     }
 
     void deleteLeft() {
-        if (cursor == head) {
+        if (cursor == head.next) {
             return;
         } else {
             Node removeNode = cursor.prev;
@@ -60,7 +58,7 @@ class DoublyLinkedList {
         size--;
     }
 
-    void insert(char s) {
+    void insertLeft(char s) {
         Node newNode = new Node(s);
         if (cursor == head) {
             return;
@@ -76,39 +74,32 @@ class DoublyLinkedList {
         size++;
     }
 
-    void addFirst(char s) {
-        Node newNode = new Node(s);
-        newNode.next = head;
-
-        if (head != null)
-            head.prev = newNode;
-
-        head = newNode;
-        size++;
-
-        if (head.next == null)
-            tail = head;
+    
+    
+    void add(char s) {
+    	Node newNode = new Node(s);
+    	
+    	
+    		newNode.next = tail;
+    		newNode.prev = tail.prev;
+    		
+    		newNode.next.prev = newNode;
+    		newNode.prev.next = newNode;
+    		
+    		size++;
+    		
+    	
     }
-
-    void addLast(char s) {
-        Node newNode = new Node(s);
-
-        if (size == 0) {
-            addFirst(s);
-        } else {
-            tail.next = newNode;
-            newNode.prev = tail;
-            tail = newNode;
-            size++;
-        }
-    }
+    
 
     void print() {
+    	StringBuilder sb = new StringBuilder();
         Node p = head.next;
-        while (p != null) {
-            System.out.print(p.data);
+        while (p != tail) {
+        	sb.append(p.data);
             p = p.next;
         }
+        System.out.println(sb);
     }
 }
 
@@ -121,14 +112,12 @@ public class BOJ_1406_조아름 {
 
         DoublyLinkedList dl = new DoublyLinkedList();
 
+        
         for (int i = 0; i < l; i++) {
-            if (i == 0) {
-                dl.addFirst(text.charAt(i));
-            } else {
-                dl.addLast(text.charAt(i));
-            }
+            dl.add(text.charAt(i));
         }
-
+        
+        
         int N = Integer.parseInt(br.readLine());
         for (int i = 0; i < N; i++) {
             String op = br.readLine();
@@ -140,7 +129,7 @@ public class BOJ_1406_조아름 {
             } else if (op.equals("B")) {
                 dl.deleteLeft();
             } else if (op.charAt(0) == 'P') {
-                dl.insert(op.charAt(2));
+                dl.insertLeft(op.charAt(2));
             }
         }
         
