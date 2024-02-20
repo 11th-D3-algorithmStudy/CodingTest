@@ -1,28 +1,24 @@
 package week3;
 
-import java.io.BufferedReader;
-import java.io.IOException;
-import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.Arrays;
-import java.util.LinkedList;
-import java.util.List;
-import java.util.Queue;
-import java.util.StringTokenizer;
+import java.io.*;
+import java.util.*;
+
 
 public class BOJ_17281_장현영 {
 
 	// 야구
 	// 등번호 1번~9번 선수들의 성적
 	// 등번호 1번 선수(0번 INDEX)는 반드시 4번타자
-	// 가장 최대로 점수뽑는 경우를 찾자
 	// idx로 타순을 계속 조정
-	// 단 이닝마다 타순을 바꿀수는 없으니 최적의 점수를 뽑는 타순을 미리 짜야 함
+	// 단 이닝마다 타순을 바꿀수는 없으으므로 점수를 뽑는 타순이 고정되어있음
 	// 모든 경우 다 보기
 
 	// 선택하고자 하는 대상 집합.
-	//static int[] target = new int[] { 1, 2, 3,4,5,6,7,8 };
 	// 대상 숫자를 선택했는지를 알려주는 집합.
+	
+	// 풀이시간 : 재귀부분에서 상당부분 소요
+	// 재귀로 permutation이 나오는 것까지 오래걸림
+
 	static boolean[] visited = new boolean[9];
 	static int[] result = new int[9];
 	static int maxScore = 0;
@@ -46,7 +42,8 @@ public class BOJ_17281_장현영 {
 	}
 
 	// 1~8 줄 세우기 -> 8!
-
+	
+	// 예시
 	// 3! = 3 2 1 = 6개
 	// 1 2 3
 	// 1 3 2
@@ -58,42 +55,34 @@ public class BOJ_17281_장현영 {
 	// 비복원추출 구현해보기
 	// 순열 메서드(cnt는 선택 횟수)
 	// 순열 뽑은 리스트에서 3번 idx 자리에 0삽입
-	// 총 9개 숫자를 계속 돌면서(while로 무한정 늘려주면서 idx는 -=9 활용하기)
-	public static void permutation(int[][] arr, int cnt) {
-		// 2개를 선택했으므로, 결과를 출력하고 재귀를 종료한다.
-		if (cnt == 9) {
-			//System.out.println(Arrays.toString(result)); // 8! + 0
-			
 
-			//System.out.println("temp: " + temp);
-			
-			System.out.println(Arrays.toString(result)); // chatgpt help me
-			// 점수 계산까지
-	
+	public static void permutation(int[][] arr, int cnt) {
+		// 개를 선택했으므로, 결과를 출력하고 재귀를 종료한다.
+		if (cnt == 9) {
+			// 점수 계산
 			int score = calculScore(arr);
 			maxScore = Math.max(maxScore, score);
-			
 			return;
 		}
-		if(cnt == 3) {
+		if(cnt == 3) { // 여기서 많이 꼬임
 			result[cnt] = 0;
 			permutation(arr, cnt+1);
 		}
 		
 		// 대상 집합을 순회하며 숫자를 하나 선택한다.
-		for (int i = 1; i <= 8; i++) {
+		for (int number = 1; number <= 8; number++) { // 사용할 number
 			// 이미 해당 숫자를 선택한 경우에는 스킵.
-			if (visited[i]) {
+			if (visited[number]) {
 				continue;
 			}
 			// 선택하지 않은경우, 선택했다는 표시를 해준다.
-			visited[i] = true;
+			visited[number] = true;
 			// 숫자를 담는다.
-			result[cnt] = i;
+			result[cnt] = number;
 			// 자신을 재귀 호출한다.
 			permutation(arr, cnt + 1);
 			// 선택을 해제한다.
-			visited[i] = false;
+			visited[number] = false;
 		}
 	}
 	public static int calculScore(int[][] arr) {
@@ -117,12 +106,12 @@ public class BOJ_17281_장현영 {
 	                // 안타 혹은 홈런인 경우를 처리함
 	                // 타자가 루에 있는 주자들을 이동시키고 점수를 계산함
 	                for (int runner = 3; runner >= 1; runner--) {
-	                    if (bases[runner]) { //
-	                        int nextPos = runner + hit;
-	                        if (nextPos >= 4) {
+	                    if (bases[runner]) { // 루상에 주자가 있는 상태
+	                        int nr = runner + hit; // 다음 루로 가는 것 next runner
+	                        if (nr >= 4) {
 	                            score++; // 홈런인 경우 점수를 증가시킴
 	                        } else {
-	                            bases[nextPos] = true; // 주자를 다음 루로 이동시킴
+	                            bases[nr] = true; // 주자를 다음 루로 이동시킴
 	                        }
 	                        bases[runner] = false; // 현재 루에는 주자가 없음을 표시함
 	                    }
@@ -134,9 +123,10 @@ public class BOJ_17281_장현영 {
 	                    score++; // 홈런인 경우 점수를 증가시킴
 	                }
 	            }
+	        	// while로 3out까지 무한으로 돌기 + 총 9개 숫자를 계속 돌면서 idx는 %9 활용하기
 	            batter = (batter + 1) % 9; // 다음 타자로 이동함
 	        }
 	    }
-	    return score; // 총 점수를 반환함
+	    return score;
 	}
 }
