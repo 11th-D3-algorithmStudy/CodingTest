@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/BOJ 11399 ATM" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BOJ 12789 도키도키 간식드리미" isTestSource="false" packagePrefix="week02" />
+      <sourceFolder url="file://$MODULE_DIR$/BOJ 24511 queuestack" isTestSource="false" packagePrefix="week02" />
+      <sourceFolder url="file://$MODULE_DIR$/BOJ 8958 OX 퀴즈" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/JO 1037 오류교정" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/추가) BOJ 17070 파이프 옮기기 1" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

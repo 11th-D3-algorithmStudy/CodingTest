@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/BOJ 11725 트리의 부모 찾기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BOJ 1406 에디터" isTestSource="false" packagePrefix="temp" />
+      <sourceFolder url="file://$MODULE_DIR$/BOJ 2798 블랙잭" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/BOJ 2941 크로아티아 알파벳" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
