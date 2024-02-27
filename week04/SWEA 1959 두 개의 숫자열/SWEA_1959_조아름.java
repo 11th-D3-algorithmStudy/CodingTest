@@ -1,3 +1,5 @@
+package swea;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -33,11 +35,11 @@ public class SWEA_1959_조아름 {
 
 			if (N < M) {
 				for (int i = 0; i <= (M - N); i++) {
-					int sum = 0;
+					int sum = 0; // i 값이 달라질 떄마다 sum 값이 나와야 하기 때문에 for문 안에서 sum 초기화
 					for (int j = 0; j < N; j++) {
 						sum += arrA[j] * arrB[i + j];
 					}
-					max = Math.max(max, sum);
+					max = Math.max(max, sum); // 마찬가지로 max 값도 for문 안에서 초기화
 				}
 			} else if (N > M) {
 				for (int i = 0; i <= (N - M); i++) {
