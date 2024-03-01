@@ -144,9 +144,9 @@ git pull origin main
           <a href="hhttps://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIsY84KEPMDFAWN"><img src="https://cdn4.iconfinder.com/data/icons/flat-design-security-set-one/24/security-level-3-512.png"  width=25px></a>
           <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy"><img src="https://cdn4.iconfinder.com/data/icons/flat-design-security-set-one/24/security-level-3-512.png"  width=25px></a>
           <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz"><img src="https://cdn4.iconfinder.com/data/icons/flat-design-security-set-one/24/security-level-3-512.png"  width=25px></a>
-          <a href="https://www.acmicpc.net/problem/2210"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"  width=25px></a>
+          <a href="https://www.acmicpc.net/problem/2210"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/9.svg"  width=20px></a>
           <a href="https://www.acmicpc.net/problem/19637"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/8.svg" class="solvedac-tier" width=20px></a>
-          <a href="hhttps://www.acmicpc.net/problem/15686"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"  width=25px></a>
+          <a href="hhttps://www.acmicpc.net/problem/15686"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"  width=20px></a>
         </td>
         <td align="center">3월 1주차</td>
         <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week05">목록보기</a></td>
