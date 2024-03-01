@@ -9,7 +9,7 @@
 |:---------------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |[SWEA 4047](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIsY84KEPMDFAWN) 영준이의 카드카운팅|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[SWEA 7964](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWuSgKpqmooDFASy) 부먹왕국의 차원 관문|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|[SWEA 7272](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz) 안경이 없어!||:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[SWEA 7272](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWl0ZQ8qn7UDFAXz) 안경이 없어!|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[BOJ 2210](https://www.acmicpc.net/problem/2210) 숫자판 점프|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[BOJ 19637](https://www.acmicpc.net/problem/19637) IF문 좀 대신 써줘|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |[BOJ 15686](https://www.acmicpc.net/problem/15686) 치킨배달|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
