@@ -11,5 +11,5 @@
 |[SWEA 1953](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) 탈주범 검거|:-:|:-:|:heavy_check_mark:|:-:|:-:|:-:|:-:|:heavy_check_mark:|
 |[BOJ 2606](https://www.acmicpc.net/problem/2606) 바이러스|:-:|:-:|:heavy_check_mark:|:-:|:-:|:-:|:heavy_check_mark:|:heavy_check_mark:|
 |[BOJ 13023](https://www.acmicpc.net/problem/13023) ABCDE|:-:|:-:|:-:|:-:|:-:|:-:|:heavy_check_mark:|:-:|
-|[BOJ 13903](https://www.acmicpc.net/problem/13903) 출근|:-:|:-:|:-:|:-:|:-:|:-:|:heavy_check_mark:|:heavy_check_mark::-:|
+|[BOJ 13903](https://www.acmicpc.net/problem/13903) 출근|:-:|:-:|:-:|:-:|:-:|:-:|:heavy_check_mark:|:heavy_check_mark:|
 |[BOJ 16173](https://www.acmicpc.net/problem/16173) 점프왕 쩰리(small)|:-:|:-:|:heavy_check_mark:|:-:|:-:|:-:|:heavy_check_mark:|:heavy_check_mark:|
