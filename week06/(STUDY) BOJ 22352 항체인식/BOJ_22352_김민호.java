@@ -52,11 +52,11 @@ public class Main {
             dfs(x, y);
 
             boolean isCorrect = true;
-            for (int i = 0; i < n; i++) {
+            out : for (int i = 0; i < n; i++) {
                 for (int j = 0; j < m; j++) {
                     if (map1[i][j] != map2[i][j]) {
                         isCorrect = false;
-                        break;
+                        break out;
                     }
                 }
             }
