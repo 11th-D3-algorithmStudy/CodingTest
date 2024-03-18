@@ -165,7 +165,7 @@ git pull origin main
     <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week06">목록보기</a></td>
     </tr>
     <tr>
-    <td align="center">06</td>
+    <td align="center">07</td>
     <td align="center">
         <a href=""><img src="https://cdn4.iconfinder.com/data/icons/flat-design-security-set-one/24/security-level-4-512.png"  width=25px></a>
         <a href=""><img src="https://cdn4.iconfinder.com/data/icons/flat-design-security-set-one/24/security-level-4-512.png"  width=25px></a>
