@@ -79,11 +79,9 @@ public class SOFT_6246_정다운 {
 					&& arr[nr][nc] != 1) { // 벽이 아니라면
 				if (nr == list.get(x+1)[0] &&
 						nc == list.get(x+1)[1]) { // 다음 방문지점이다?
-					visit[nr][nc] = true;
 					dfs(nr, nc, x+1); // 방문지점 개수 +1
 					visit[nr][nc] = false; // 방문처리 되돌려놓기.... 빼먹지 말기......
 				} else { // 방문지점 아니다
-					visit[nr][nc] = true;
 					dfs(nr, nc, x); // 방문지점 개수 그대로
 					visit[nr][nc] = false;
 				}
