@@ -179,8 +179,8 @@ git pull origin main
     </tr>
     <td align="center">08</td>
     <td align="center">
-        <a href="https://softeer.ai/practice/6250"><img src="https://softeer.ai/images/common/level-3.svg"  width=20px></a>
-        <a href="https://softeer.ai/practice/6275"><img src="https://softeer.ai/images/common/level-3.svg"  width=20px></a>
+        <a href="https://softeer.ai/practice/6250"><img src="https://softeer.ai/images/common/level-3.svg"  width=70px></a>
+        <a href="https://softeer.ai/practice/6275"><img src="https://softeer.ai/images/common/level-3.svg"  width=70px></a>
         <a href="https://www.acmicpc.net/problem/24091"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/6.svg"  width=20px></a>
         <a href="https://www.acmicpc.net/problem/24061"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/7.svg"  width=20px></a>
         <a href="https://www.acmicpc.net/problem/14888"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"  width=20px></a>
