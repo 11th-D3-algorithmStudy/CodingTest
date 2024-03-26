@@ -12,5 +12,5 @@
 |[BOJ 14888](https://www.acmicpc.net/problem/14888) 연산자 끼워넣기|:heavy_check_mark:|:heavy_check_mark:|:mag:|:heavy_check_mark:|:-:|:-:|:heavy_check_mark:|:-:|
 |[BOJ 24091](https://www.acmicpc.net/problem/24091) 퀵 정렬 2|:mag:|:mag:|:-:|:-:|:-:|:-:|:mag:|:-:|
 |[BOJ 24061](https://www.jungol.co.kr/problem/24061) 병합 정렬 2|:heavy_check_mark:|:heavy_check_mark:|:-:|:-:|:-:|:-:|:heavy_check_mark:|:-:|
-|[BOJ 17471](https://www.acmicpc.net/problem/17471) 게리맨더링|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|[BOJ 17471](https://www.acmicpc.net/problem/17471) 게리맨더링|:-:|:-:|:-:|:mag:|:-:|:-:|:-:|:-:|
 
