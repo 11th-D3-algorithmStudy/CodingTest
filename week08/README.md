@@ -8,7 +8,7 @@
 |Problem No.|김민호|성민기|이규빈|이서영|이윤주|장현영|정다운|조아름|
 |:---------------------------|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
 |[SOFT 6250](https://softeer.ai/practice/6250) 성적 평가|:mag:|:mag:|:mag:|:heavy_check_mark:|:heavy_check_mark:|:mag:|:heavy_check_mark:|:mag:|
-|[SOFT 6275](https://softeer.ai/practice/6275) 로봇이 지나간 경로|:-:|:-:|:-:|:mag:|:-:|:mag:|:-:|:-:|
+|[SOFT 6275](https://softeer.ai/practice/6275) 로봇이 지나간 경로|:-:|:-:|:-:|:heavy_check_mark:|:-:|:mag:|:-:|:-:|
 |[BOJ 14888](https://www.acmicpc.net/problem/14888) 연산자 끼워넣기|:heavy_check_mark:|:heavy_check_mark:|:mag:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |[BOJ 24091](https://www.acmicpc.net/problem/24091) 퀵 정렬 2|:mag:|:mag:|:-:|:-:|:heavy_check_mark:|:-:|:mag:|:heavy_check_mark:|
 |[BOJ 24061](https://www.jungol.co.kr/problem/24061) 병합 정렬 2|:heavy_check_mark:|:heavy_check_mark:|:-:|:-:|:heavy_check_mark:|:mag:|:heavy_check_mark:|:heavy_check_mark:|
