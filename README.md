@@ -3,6 +3,7 @@
 - 김민호
 - 성민기
 - 이규빈
+- 232
 - 이서영
 - 이윤주
 - 장현영
@@ -233,6 +234,30 @@ git pull origin main
     </td>
     <td align="center">4월 4주차</td>
     <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week12">목록보기</a></td>
+    </tr>
+    <tr>
+        <td align="center">13</td>
+        <td align="center">
+            <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf"><img src="https://cdn4.iconfinder.com/data/icons/flat-design-security-set-one/24/security-level-4-512.png"  width=25px></a>
+            <a href="https://www.acmicpc.net/problem/7490"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"  width=20px></a>
+            <a href="https://www.acmicpc.net/problem/10942"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"  width=20px></a>
+            <a href="https://www.acmicpc.net/problem/17144"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"  width=20px></a>
+            <a href="https://www.acmicpc.net/problem/15903"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"  width=20px></a>
+        </td>
+        <td align="center">5월 1주차</td>
+        <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week13">목록보기</a></td>    
+    </tr>
+    <tr>
+    <td align="center">14</td>
+    <td align="center">
+        <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy"><img src="https://cdn4.iconfinder.com/data/icons/flat-design-security-set-one/24/security-level-4-512.png"  width=25px></a>
+        <a href="https://www.acmicpc.net/problem/2156"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"  width=20px></a>
+        <a href="https://www.acmicpc.net/problem/21758"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"  width=20px></a>
+        <a href="https://www.acmicpc.net/problem/1504"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"  width=20px></a>
+        <a href="https://www.acmicpc.net/problem/1865"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"  width=20px></a>
+    </td>
+    <td align="center">5월 2주차</td>
+    <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week14">목록보기</a></td>    
     </tr>
 </table>
 
