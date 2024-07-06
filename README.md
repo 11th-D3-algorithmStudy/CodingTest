@@ -1,3 +1,12 @@
+![image](https://github.com/11th-D3-algorithmStudy/CodingTest/assets/43288938/57c7a664-b238-49d4-91ea-0e9ea3fce6a3)
+
+
+
+
+
+
+
+
 # 대전 3반 알고리즘 스터디 ✏️
 ## 👥 Members
 - 김민호
