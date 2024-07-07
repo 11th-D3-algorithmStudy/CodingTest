@@ -1,8 +1,18 @@
+![image](https://github.com/11th-D3-algorithmStudy/CodingTest/assets/43288938/57c7a664-b238-49d4-91ea-0e9ea3fce6a3)
+
+
+
+
+
+
+
+
 # 대전 3반 알고리즘 스터디 ✏️
 ## 👥 Members
 - 김민호
 - 성민기
 - 이규빈
+- 232
 - 이서영
 - 이윤주
 - 장현영
@@ -13,17 +23,35 @@
 
 ## 👋 Rules 
 ### 스터디 시간 
-> Every WED 8:00 PM
+> Every MON 19:30 PM
 
-### 제출 마감 시간 (SUBMIT DUE)
-> Every TUE 11:59 PM
+### 주차별 문제 제출 마감 시간 (SUBMIT DUE)
+> Every MON 09:00 AM
 
 ### 스터디 방식
 
-- 강의 실습에 대한 복습 및 IM & A등급 대비 알고리즘 문제 풀이
-    - 매주 5문제 + 1문제 총 6문제 선정     
-    - 주차별 문제 Pull requests 활용하여 스터디원 코드 리뷰하기 
-- 스터디 시간에는 시간 정해놓고 동시에 알고리즘 문제 풀기 (시간 배분 연습 및 문제 풀이 스타일 공유)
+문제 순번 때 스터디원은 총 3문제 선정해서 git에 week__ **문제 업로드 진행 (화요일 23:59까지)**
+
+- **(추가 룰) 업로드 미진행 시 문제 순번 전원 벌금 2000원씩** 징수
+- 업로드 문제 출처는 자유 선택(백준, 프로그래머스,SWEA 등)
+- 3문제 중 2문제 필수 문제 풀이(**돋보기도 제출 필수**)
+    
+    기한: **월요일 일과 시작(MON 09:00) 전까지 2문제 필수 제출** (자정 지나서 제출 가능)
+    
+
+### 스터디날 방식
+
+1. 함께 모여서 풀 문제 **(lv2 1개, lv3 1개 프로그래머스**) 선택 (1시간 30분 ~ 2시간)
+2. 문제 풀이 시간: 각자 푼 문제 채점 진행
+    1. 정답을 맞춘 경우 기존 방식과 동일하게 풀이 공유
+    2. 거의 풀지 못한 문제는 종료 시간 최소 10분 전부터 **클린 코드 읽고 해당 클린 코드 링크 공유**
+3. ⭐ **(추가 룰) 스터디 끝나고 나서 할 일**
+    - 내가 푼 문제면 정리해서 git에 업로드
+    - 내가 풀지 못한 문제면 풀지 못한 이유 복기 및 클린코드 복붙 또는 다시 풀어서 git에 업로드
+    
+    → **화요일 일과 시작(TUE 09:00) 전까지 스터디 시간에 푼 2문제 필수 제출**
+    
+    누락 시 경고 1회 (2회 시 벌금 3000원 후 reset)
 <br>
 
 ### 파일명 규칙
@@ -233,6 +261,30 @@ git pull origin main
     </td>
     <td align="center">4월 4주차</td>
     <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week12">목록보기</a></td>
+    </tr>
+    <tr>
+        <td align="center">13</td>
+        <td align="center">
+            <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV4suNtaXFEDFAUf"><img src="https://cdn4.iconfinder.com/data/icons/flat-design-security-set-one/24/security-level-4-512.png"  width=25px></a>
+            <a href="https://www.acmicpc.net/problem/7490"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"  width=20px></a>
+            <a href="https://www.acmicpc.net/problem/10942"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"  width=20px></a>
+            <a href="https://www.acmicpc.net/problem/17144"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"  width=20px></a>
+            <a href="https://www.acmicpc.net/problem/15903"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"  width=20px></a>
+        </td>
+        <td align="center">5월 1주차</td>
+        <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week13">목록보기</a></td>    
+    </tr>
+    <tr>
+    <td align="center">14</td>
+    <td align="center">
+        <a href="https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV6c6bgaIuoDFAXy"><img src="https://cdn4.iconfinder.com/data/icons/flat-design-security-set-one/24/security-level-4-512.png"  width=25px></a>
+        <a href="https://www.acmicpc.net/problem/2156"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/10.svg"  width=20px></a>
+        <a href="https://www.acmicpc.net/problem/21758"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/11.svg"  width=20px></a>
+        <a href="https://www.acmicpc.net/problem/1504"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/12.svg"  width=20px></a>
+        <a href="https://www.acmicpc.net/problem/1865"><img src="https://d2gd6pc034wcta.cloudfront.net/tier/13.svg"  width=20px></a>
+    </td>
+    <td align="center">5월 2주차</td>
+    <td align="center"><a href="https://github.com/11th-D3-algorithmStudy/CodingTest/tree/main/week14">목록보기</a></td>    
     </tr>
 </table>
 
