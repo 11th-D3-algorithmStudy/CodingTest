@@ -5,8 +5,8 @@ class Solution {
         int answer = 0;
         List<String> list = new LinkedList<>();
         
-        for (int i = 0; i < cities.length; i++) {
-            String city = cities[i].toUpperCase();  // 모두 대문자로 변경
+        for (String city : cities) {
+            city = city.toUpperCase();  // 모두 대문자로 변경
             
             if (!list.contains(city)) {
                 answer += 5;
@@ -18,7 +18,7 @@ class Solution {
                 }
             } else {
                 answer += 1;
-                list.remove(list.indexOf(city));
+                list.remove(city);
                 list.add(city);
             }
         }
