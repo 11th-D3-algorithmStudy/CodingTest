@@ -1,0 +1,44 @@
+import java.util.*;
+class Solution {
+    
+    class Element{
+        int index;
+        int value;
+        
+        public Element(int i, int v){
+            index = i;
+            value = v;
+        }
+        
+    }
+    public int[] solution(int[] prices) {
+        int[] answer = new int[prices.length];
+        Stack<Element> stack  = new Stack<>();
+        for (int i = 0; i < prices.length; i++){
+            if (stack.isEmpty()){
+                stack.push(new Element(i, prices[i]));
+            }else{
+                Element top = stack.peek();
+                if (prices[i] > top.value){
+                    stack.push(new Element(i, prices[i]));
+                }else{ // 들어온 값이 더 작다
+                    while (!stack.isEmpty() && top.value > prices[i]){
+                        Element remove = stack.pop();
+                        answer[remove.index] = i - remove.index;
+                        if (!stack.isEmpty()){
+                            top = stack.peek();  
+                        }                 
+                    }
+                    stack.push(new Element(i, prices[i]));
+                }
+            }
+        }
+        while (!stack.isEmpty()){
+            Element elem = stack.pop();
+            answer[elem.index] = (prices.length - 1) - elem.index;
+        }
+        
+
+        return answer;
+    }
+}
