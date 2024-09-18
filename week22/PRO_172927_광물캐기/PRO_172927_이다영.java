@@ -5,10 +5,12 @@ class Solution {
         int answer = 0;
         int pick=0;
         int mineral=0;
+        int idx = 0;
         int[][] group = new int[minerals.length/5+1][3];
-        while(mineral<minerals.length){ 
+        int totalpicks = picks[0]+picks[1]+picks[2];
+        while(mineral<minerals.length && idx<totalpicks){ 
             String now = minerals[mineral];
-            int idx = mineral/5;
+            idx = mineral/5;
             if(now.equals("diamond")){
                 group[idx][0]++;
             }
