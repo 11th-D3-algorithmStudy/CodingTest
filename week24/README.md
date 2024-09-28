@@ -1,4 +1,4 @@
-# week23 (9월 5주차) :pencil:
+# week24 (9월 5주차) :pencil:
 
 - 맞은 문제 :heavy_check_mark: 표기
 - 고민한 문제 :mag: 표기
@@ -7,4 +7,4 @@
 | :----------------------------------------------------------------------------------------------------- | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [PRO 42888](https://school.programmers.co.kr/learn/courses/30/lessons/42888) 오픈채팅방 |   :-:   |  :-:   |   :-:   |   :-:   |   :-:   |   :-:   |   :-:  |   :-:   |   :-:   |   :-:  |
 | [PRO 92334](https://school.programmers.co.kr/learn/courses/30/lessons/92334) 신고결과받기 |  :-:   |  :-:   |  :-:   |   :-:   |   :-:   |  :-:   |  :-:  |   :-:   |  :-:   |  :-:   |
-| [PRO 43162](https://school.programmers.co.kr/learn/courses/30/lessons/43162) 네트워크 |   :-:   |  :-:   |   :-:   |  :-:   |   :-:   |   :-:   |  :-:  |  :-:   |  :-:   |  :-:   |
+| [PRO 43162](https://school.programmers.co.kr/learn/courses/30/lessons/43162) 네트워크 |   :-:   |  :-:   |   :heavy_check_mark:   |  :-:   |   :-:   |   :-:   |  :-:  |  :-:   |  :-:   |  :-:   |
